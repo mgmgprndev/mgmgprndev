@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Nekozouneko Group as a Developer
-- 🌱 I’m currently learning something useful
-- 📫 Discord: @mgmgprndev
-- 😄 Pronouns: He/Him
+- 🔭 Nekozouneko Group Developerです。
+- 🌱 セキュリティーを勉強中
+- 📫 ディスコードは@mgmgprndev
+- 👀 モデレーター、アドミンやサーバー管理者の経験があったりします。
+- 😏 チームに1人は欲しい便利な人間だと自称しています。
 
 <p align="center">
 <a href="https://github.com/mgmgprndev">
