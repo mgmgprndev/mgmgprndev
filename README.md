@@ -1,6 +1,7 @@
 ## やぁ、もぐだよ 👋
 
 - 🔭 Nekozouneko Group Developerです。
+- 🪛 Java, JavaScript, PHPができる。TailwindCSSが得意。 MariaDB & MongoDBが大好き。Debianは彼女。
 - 🌱 セキュリティーを勉強中
 - 📫 ディスコードは@mgmgprndev
 - 👀 モデレーター、アドミンやサーバー管理者の経験があったりします。
