@@ -1,6 +1,6 @@
 ## やぁ、もぐだよ 👋
 
-- 🔭 Nekozouneko Group Developer, Planner, PR Strategy Team Leaderです。
+- 🔭 Nekozouneko Group Developer, Plannerです。
 - 🪛 Java, JavaScript, PHPができる。TailwindCSSが得意。 MariaDB & MongoDBが大好き。Debianは彼女。
 - 🌱 セキュリティーを勉強中
 - 📫 ディスコードは@mgmgprndev
